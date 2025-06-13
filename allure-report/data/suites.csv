@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6248","Comprar mochila com sucesso","Firefox","Thu Jun 12 18:28:18 BRT 2025","passed","Thu Jun 12 18:28:24 BRT 2025","Fluxo de Compra no SauceDemo","src\tests\checkout.test.ts","",""
+"","3495","Comprar mochila com sucesso","Chromium","Thu Jun 12 18:28:18 BRT 2025","passed","Thu Jun 12 18:28:22 BRT 2025","Fluxo de Compra no SauceDemo","src\tests\checkout.test.ts","",""
+"","5616","Comprar mochila com sucesso","Mobile","Thu Jun 12 18:28:18 BRT 2025","passed","Thu Jun 12 18:28:24 BRT 2025","Fluxo de Compra no SauceDemo","src\tests\checkout.test.ts","",""
